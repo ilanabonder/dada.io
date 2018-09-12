@@ -1,0 +1,27 @@
+body{
+  text-align: center;
+  margin: 100px;
+  vertical-align: center;
+}
+
+#news-input{
+  width:470px;
+  height:100px;
+}
+
+#instructions{
+  align: center;
+}
+
+#instructions-text{
+  margin-left: 30%;
+  text-align: left;
+}
+
+#dadapoem {
+  width:400px;
+  height:auto;
+  margin-left: 37%;
+  text-align: left;
+  line-height: 1.6;
+}
